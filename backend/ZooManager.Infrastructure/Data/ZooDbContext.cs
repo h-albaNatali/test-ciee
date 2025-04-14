@@ -11,7 +11,7 @@ public class ZooDbContext : DbContext
     public DbSet<Animal> Animals => Set<Animal>();
     public DbSet<Care> Cares => Set<Care>();
     public DbSet<AnimalCare> AnimalCares => Set<AnimalCare>();
-    public DbSet<User> Users { get; set; }
+    public DbSet<AppUser> AppUsers => Set<AppUser>();
 
 
     protected override void OnModelCreating(ModelBuilder modelBuilder)
@@ -28,5 +28,7 @@ public class ZooDbContext : DbContext
             .HasOne(ac => ac.Care)
             .WithMany(c => c.AnimalCares)
             .HasForeignKey(ac => ac.CareId);
+        modelBuilder.Entity<AppUser>().ToTable("AppUsers");
+
     }
 }

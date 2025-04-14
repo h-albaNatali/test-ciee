@@ -9,3 +9,4 @@ C:\Users\Usuário\zoo-manager\backend\ZooManager.Domain\obj\Debug\net7.0\ZooMana
 C:\Users\Usuário\zoo-manager\backend\ZooManager.Domain\obj\Debug\net7.0\refint\ZooManager.Domain.dll
 C:\Users\Usuário\zoo-manager\backend\ZooManager.Domain\obj\Debug\net7.0\ZooManager.Domain.pdb
 C:\Users\Usuário\zoo-manager\backend\ZooManager.Domain\obj\Debug\net7.0\ref\ZooManager.Domain.dll
+C:\Users\Usuário\zoo-manager\backend\ZooManager.Domain\obj\Debug\net7.0\ZooManager.Domain.sourcelink.json

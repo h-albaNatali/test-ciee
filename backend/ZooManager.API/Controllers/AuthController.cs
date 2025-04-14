@@ -8,7 +8,6 @@ using ZooManager.Application.DTOs;
 using ZooManager.Domain.Entities;
 using ZooManager.Infrastructure.Data;
 
-
 namespace ZooManager.API.Controllers;
 
 [ApiController]
@@ -27,16 +26,16 @@ public class AuthController : ControllerBase
     [HttpPost("register")]
     public async Task<IActionResult> Register(RegisterDto dto)
     {
-        var exists = await _context.Users.AnyAsync(u => u.Email == dto.Email);
+        var exists = await _context.AppUsers.AnyAsync(u => u.Email == dto.Email);
         if (exists) return BadRequest("Email já registrado.");
 
-        var user = new User
+        var user = new AppUser
         {
             Email = dto.Email,
             PasswordHash = BCrypt.Net.BCrypt.HashPassword(dto.Password)
         };
 
-        _context.Users.Add(user);
+        _context.AppUsers.Add(user);
         await _context.SaveChangesAsync();
 
         return Ok();
@@ -45,7 +44,7 @@ public class AuthController : ControllerBase
     [HttpPost("login")]
     public async Task<ActionResult<AuthResponseDto>> Login(LoginDto dto)
     {
-        var user = await _context.Users.FirstOrDefaultAsync(u => u.Email == dto.Email);
+        var user = await _context.AppUsers.FirstOrDefaultAsync(u => u.Email == dto.Email);
         if (user == null || !BCrypt.Net.BCrypt.Verify(dto.Password, user.PasswordHash))
             return Unauthorized("Email ou senha inválidos.");
 
@@ -59,7 +58,7 @@ public class AuthController : ControllerBase
         });
     }
 
-    private string GenerateJwtToken(User user)
+    private string GenerateJwtToken(AppUser user)
     {
         var claims = new[]
         {

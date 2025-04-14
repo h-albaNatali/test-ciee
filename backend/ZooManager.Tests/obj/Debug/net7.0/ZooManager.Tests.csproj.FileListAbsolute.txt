@@ -152,3 +152,4 @@ C:\Users\Usuário\zoo-manager\backend\ZooManager.Tests\obj\Debug\net7.0\refint\Z
 C:\Users\Usuário\zoo-manager\backend\ZooManager.Tests\obj\Debug\net7.0\ZooManager.Tests.pdb
 C:\Users\Usuário\zoo-manager\backend\ZooManager.Tests\obj\Debug\net7.0\ZooManager.Tests.genruntimeconfig.cache
 C:\Users\Usuário\zoo-manager\backend\ZooManager.Tests\obj\Debug\net7.0\ref\ZooManager.Tests.dll
+C:\Users\Usuário\zoo-manager\backend\ZooManager.Tests\obj\Debug\net7.0\ZooManager.Tests.sourcelink.json

@@ -15,3 +15,4 @@ C:\Users\Usuário\zoo-manager\backend\ZooManager.Application\obj\Debug\net7.0\Zo
 C:\Users\Usuário\zoo-manager\backend\ZooManager.Application\obj\Debug\net7.0\refint\ZooManager.Application.dll
 C:\Users\Usuário\zoo-manager\backend\ZooManager.Application\obj\Debug\net7.0\ZooManager.Application.pdb
 C:\Users\Usuário\zoo-manager\backend\ZooManager.Application\obj\Debug\net7.0\ref\ZooManager.Application.dll
+C:\Users\Usuário\zoo-manager\backend\ZooManager.Application\obj\Debug\net7.0\ZooManager.Application.sourcelink.json

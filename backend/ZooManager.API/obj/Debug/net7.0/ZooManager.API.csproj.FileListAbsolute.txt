@@ -86,3 +86,4 @@ C:\Users\Usuário\zoo-manager\backend\ZooManager.API\obj\Debug\net7.0\ZooManager
 C:\Users\Usuário\zoo-manager\backend\ZooManager.API\obj\Debug\net7.0\ref\ZooManager.API.dll
 C:\Users\Usuário\zoo-manager\backend\ZooManager.API\bin\Debug\net7.0\BCrypt.Net-Next.dll
 C:\Users\Usuário\zoo-manager\backend\ZooManager.API\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Usuário\zoo-manager\backend\ZooManager.API\obj\Debug\net7.0\ZooManager.API.sourcelink.json

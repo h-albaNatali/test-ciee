@@ -15,3 +15,4 @@ C:\Users\Usuário\zoo-manager\backend\ZooManager.Infrastructure\obj\Debug\net7.0
 C:\Users\Usuário\zoo-manager\backend\ZooManager.Infrastructure\obj\Debug\net7.0\ZooManager.Infrastructure.pdb
 C:\Users\Usuário\zoo-manager\backend\ZooManager.Infrastructure\obj\Debug\net7.0\ZooManager.Infrastructure.genruntimeconfig.cache
 C:\Users\Usuário\zoo-manager\backend\ZooManager.Infrastructure\obj\Debug\net7.0\ref\ZooManager.Infrastructure.dll
+C:\Users\Usuário\zoo-manager\backend\ZooManager.Infrastructure\obj\Debug\net7.0\ZooManager.Infrastructure.sourcelink.json
