@@ -1,0 +1,17 @@
+C:\Users\Usuário\zoo-manager\backend\ZooManager.Application\bin\Debug\net9.0\ZooManager.Application.deps.json
+C:\Users\Usuário\zoo-manager\backend\ZooManager.Application\bin\Debug\net9.0\ZooManager.Application.dll
+C:\Users\Usuário\zoo-manager\backend\ZooManager.Application\bin\Debug\net9.0\ZooManager.Application.pdb
+C:\Users\Usuário\zoo-manager\backend\ZooManager.Application\bin\Debug\net9.0\ZooManager.Domain.dll
+C:\Users\Usuário\zoo-manager\backend\ZooManager.Application\bin\Debug\net9.0\ZooManager.Infrastructure.dll
+C:\Users\Usuário\zoo-manager\backend\ZooManager.Application\bin\Debug\net9.0\ZooManager.Domain.pdb
+C:\Users\Usuário\zoo-manager\backend\ZooManager.Application\bin\Debug\net9.0\ZooManager.Infrastructure.pdb
+C:\Users\Usuário\zoo-manager\backend\ZooManager.Application\obj\Debug\net9.0\ZooManager.Application.csproj.AssemblyReference.cache
+C:\Users\Usuário\zoo-manager\backend\ZooManager.Application\obj\Debug\net9.0\ZooManager.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuário\zoo-manager\backend\ZooManager.Application\obj\Debug\net9.0\ZooManager.Application.AssemblyInfoInputs.cache
+C:\Users\Usuário\zoo-manager\backend\ZooManager.Application\obj\Debug\net9.0\ZooManager.Application.AssemblyInfo.cs
+C:\Users\Usuário\zoo-manager\backend\ZooManager.Application\obj\Debug\net9.0\ZooManager.Application.csproj.CoreCompileInputs.cache
+C:\Users\Usuário\zoo-manager\backend\ZooManager.Application\obj\Debug\net9.0\ZooManag.72C69728.Up2Date
+C:\Users\Usuário\zoo-manager\backend\ZooManager.Application\obj\Debug\net9.0\ZooManager.Application.dll
+C:\Users\Usuário\zoo-manager\backend\ZooManager.Application\obj\Debug\net9.0\refint\ZooManager.Application.dll
+C:\Users\Usuário\zoo-manager\backend\ZooManager.Application\obj\Debug\net9.0\ZooManager.Application.pdb
+C:\Users\Usuário\zoo-manager\backend\ZooManager.Application\obj\Debug\net9.0\ref\ZooManager.Application.dll

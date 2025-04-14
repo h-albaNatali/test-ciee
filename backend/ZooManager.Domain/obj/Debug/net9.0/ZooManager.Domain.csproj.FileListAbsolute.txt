@@ -1,0 +1,11 @@
+C:\Users\Usuário\zoo-manager\backend\ZooManager.Domain\bin\Debug\net9.0\ZooManager.Domain.deps.json
+C:\Users\Usuário\zoo-manager\backend\ZooManager.Domain\bin\Debug\net9.0\ZooManager.Domain.dll
+C:\Users\Usuário\zoo-manager\backend\ZooManager.Domain\bin\Debug\net9.0\ZooManager.Domain.pdb
+C:\Users\Usuário\zoo-manager\backend\ZooManager.Domain\obj\Debug\net9.0\ZooManager.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuário\zoo-manager\backend\ZooManager.Domain\obj\Debug\net9.0\ZooManager.Domain.AssemblyInfoInputs.cache
+C:\Users\Usuário\zoo-manager\backend\ZooManager.Domain\obj\Debug\net9.0\ZooManager.Domain.AssemblyInfo.cs
+C:\Users\Usuário\zoo-manager\backend\ZooManager.Domain\obj\Debug\net9.0\ZooManager.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Usuário\zoo-manager\backend\ZooManager.Domain\obj\Debug\net9.0\ZooManager.Domain.dll
+C:\Users\Usuário\zoo-manager\backend\ZooManager.Domain\obj\Debug\net9.0\refint\ZooManager.Domain.dll
+C:\Users\Usuário\zoo-manager\backend\ZooManager.Domain\obj\Debug\net9.0\ZooManager.Domain.pdb
+C:\Users\Usuário\zoo-manager\backend\ZooManager.Domain\obj\Debug\net9.0\ref\ZooManager.Domain.dll

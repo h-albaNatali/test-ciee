@@ -1,0 +1,17 @@
+C:\Users\Usuário\zoo-manager\backend\ZooManager.Infrastructure\obj\Debug\net9.0\ZooManager.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuário\zoo-manager\backend\ZooManager.Infrastructure\obj\Debug\net9.0\ZooManager.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Usuário\zoo-manager\backend\ZooManager.Infrastructure\obj\Debug\net9.0\ZooManager.Infrastructure.AssemblyInfo.cs
+C:\Users\Usuário\zoo-manager\backend\ZooManager.Infrastructure\obj\Debug\net9.0\ZooManager.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Usuário\zoo-manager\backend\ZooManager.Infrastructure\obj\Debug\net9.0\ZooManager.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Usuário\zoo-manager\backend\ZooManager.Infrastructure\bin\Debug\net9.0\ZooManager.Infrastructure.deps.json
+C:\Users\Usuário\zoo-manager\backend\ZooManager.Infrastructure\bin\Debug\net9.0\ZooManager.Infrastructure.runtimeconfig.json
+C:\Users\Usuário\zoo-manager\backend\ZooManager.Infrastructure\bin\Debug\net9.0\ZooManager.Infrastructure.dll
+C:\Users\Usuário\zoo-manager\backend\ZooManager.Infrastructure\bin\Debug\net9.0\ZooManager.Infrastructure.pdb
+C:\Users\Usuário\zoo-manager\backend\ZooManager.Infrastructure\bin\Debug\net9.0\ZooManager.Domain.dll
+C:\Users\Usuário\zoo-manager\backend\ZooManager.Infrastructure\bin\Debug\net9.0\ZooManager.Domain.pdb
+C:\Users\Usuário\zoo-manager\backend\ZooManager.Infrastructure\obj\Debug\net9.0\ZooManag.B7E879A4.Up2Date
+C:\Users\Usuário\zoo-manager\backend\ZooManager.Infrastructure\obj\Debug\net9.0\ZooManager.Infrastructure.dll
+C:\Users\Usuário\zoo-manager\backend\ZooManager.Infrastructure\obj\Debug\net9.0\refint\ZooManager.Infrastructure.dll
+C:\Users\Usuário\zoo-manager\backend\ZooManager.Infrastructure\obj\Debug\net9.0\ZooManager.Infrastructure.pdb
+C:\Users\Usuário\zoo-manager\backend\ZooManager.Infrastructure\obj\Debug\net9.0\ZooManager.Infrastructure.genruntimeconfig.cache
+C:\Users\Usuário\zoo-manager\backend\ZooManager.Infrastructure\obj\Debug\net9.0\ref\ZooManager.Infrastructure.dll
