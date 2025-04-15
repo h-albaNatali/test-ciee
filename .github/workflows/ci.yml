@@ -23,34 +23,36 @@ jobs:
           --health-cmd "exit 0" --health-interval 10s --health-timeout 5s --health-retries 5
 
     steps:
-    - name: Checkout repository
-      uses: actions/checkout@v3
+      - name: Checkout repository (with submodules)
+        uses: actions/checkout@v3
+        with:
+          submodules: true
 
-    - name: Setup .NET
-      uses: actions/setup-dotnet@v3
-      with:
-        dotnet-version: '7.0.x'
+      - name: Setup .NET
+        uses: actions/setup-dotnet@v3
+        with:
+          dotnet-version: '7.0.x'
 
-    - name: Setup Node.js
-      uses: actions/setup-node@v3
-      with:
-        node-version: '18'
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '18'
 
-    - name: Restore backend dependencies
-      run: dotnet restore ./backend/ZooManager.API
+      - name: Restore backend dependencies
+        run: dotnet restore ./backend/ZooManager.API
 
-    - name: Build backend
-      run: dotnet build ./backend/ZooManager.API --configuration Release
+      - name: Build backend
+        run: dotnet build ./backend/ZooManager.API --configuration Release
 
-    - name: Run backend tests
-      run: dotnet test ./backend --no-build --verbosity normal
+      - name: Run backend tests
+        run: dotnet test ./backend --no-build --verbosity normal
 
-    - name: Install frontend dependencies
-      run: |
-        cd frontend
-        npm install
+      - name: Install frontend dependencies
+        run: |
+          cd frontend
+          npm install
 
-    - name: Build frontend
-      run: |
-        cd frontend
-        npm run build
+      - name: Build frontend
+        run: |
+          cd frontend
+          npm run build
